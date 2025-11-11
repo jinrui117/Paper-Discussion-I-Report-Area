@@ -12,7 +12,7 @@
 
 2025/10/21 [綠色科技與光電元件之發展應用](https://github.com/jinrui117/Paper-Discussion-I-Report-Area/blob/main/%E6%9B%B8%E5%A0%B1%E8%A8%8E%E8%AB%9620251021.pdf)
 
-2025/11/11 [生成式人工智慧與異質平台整合應用]()
+2025/11/11 [生成式人工智慧與異質平台整合應用](https://github.com/jinrui117/Paper-Discussion-I-Report-Area/blob/main/%E6%9B%B8%E5%A0%B1%E8%A8%8E%E8%AB%9620251111.pdf)
 
 ## 書面報告
 
