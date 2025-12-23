@@ -14,7 +14,9 @@
 
 2025/11/11 [生成式人工智慧與異質平台整合應用](https://github.com/jinrui117/Paper-Discussion-I-Report-Area/blob/main/%E6%9B%B8%E5%A0%B1%E8%A8%8E%E8%AB%9620251111.pdf)
 
-2025/11/18 [台灣的地震觀測漫談地震觀測的趣味與挑戰]()
+2025/11/18 [台灣的地震觀測漫談地震觀測的趣味與挑戰](https://github.com/jinrui117/Paper-Discussion-I-Report-Area/blob/main/%E6%9B%B8%E5%A0%B1%E8%A8%8E%E8%AB%9620251118.pdf)
+
+2025/12/23 [Ultra Lightweight Dehaze Methods for Robot Vision Using High-Level Synthesis](https://github.com/jinrui117/Paper-Discussion-I-Report-Area/blob/main/%E6%9B%B8%E5%A0%B1%E8%A8%8E%E8%AB%9620251223.pdf)
 
 ## 書面報告
 
